@@ -17,12 +17,12 @@
     "@nuxtjs/google-analytics": "^2.3.0",
     "@nuxtjs/pwa": "^3.0.0-beta.20",
     "@nuxtjs/robots": "^2.4.2",
-    "@nuxtjs/sitemap": "^2.3.0",
+    "@nuxtjs/sitemap": "^5.0.0",
     "@nuxtjs/toast": "^3.3.0",
     "cookie-universal-nuxt": "^2.1.4",
     "firebase": "^7.14.5",
     "helmet": "^3.22.0",
-    "nuxt": "^2.12.2",
+    "nuxt": "^3.0.0",
     "vue-firestore": "^0.3.30"
   },
   "devDependencies": {
